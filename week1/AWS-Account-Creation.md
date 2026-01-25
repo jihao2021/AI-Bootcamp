@@ -26,7 +26,6 @@ On the sign‑up page, enter a **root‑user email address** and **choose a name
 
 Choose **Personal** as the account type if you’re signing up for learning or personal projects.  Then fill in your **full name**, **phone number (with country code)**, **address** and **postal code**.  Check the box indicating that you agree to the AWS Customer Agreement.
 
-![Contact information](images/step2.png)
 
 ### 4. Add billing information
 
