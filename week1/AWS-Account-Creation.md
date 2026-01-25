@@ -14,7 +14,7 @@ Before you start, make sure you have the following:
 
 ### 1. Start the sign‑up process
 
-Go to the AWS home page and click **Create Account** in the upper‑right corner.  If you are taken to the sign‑in page instead, scroll down and click **New to AWS? Sign up** to reach the registration form.
+Go to the AWS home page：https://aws.amazon.com/cn/ and click **Create Account** in the upper‑right corner.  If you are taken to the sign‑in page instead, scroll down and click **New to AWS? Sign up** to reach the registration form.
 
 ![Starting sign‑up](images/step1.png)
 
