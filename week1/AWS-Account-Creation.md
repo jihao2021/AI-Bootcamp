@@ -16,28 +16,29 @@ Before you start, make sure you have the following:
 
 Go to the AWS home page：https://aws.amazon.com/cn/ and click **Create Account** in the upper‑right corner.  If you are taken to the sign‑in page instead, scroll down and click **New to AWS? Sign up** to reach the registration form.
 
-![Starting sign‑up](images/step1.png)
+![Step 1](images/step2.png)
 
 ### 2. Verify your email and choose an account name
 
 On the sign‑up page, enter a **root‑user email address** and **choose a name** for your AWS account.  AWS will send a verification code to your email; click **Verify email address**, complete the CAPTCHA and enter the code.  You will then set a secure password—the password must be at least eight characters long and include a mix of numbers, uppercase and lowercase letters, and symbols.
 
+![Step 2](images/step3.png)
 ### 3. Provide your contact information
 
 Choose **Personal** as the account type if you’re signing up for learning or personal projects.  Then fill in your **full name**, **phone number (with country code)**, **address** and **postal code**.  Check the box indicating that you agree to the AWS Customer Agreement.
 
-
+![Step 3](images/step4.png)
 ### 4. Add billing information
 
 Enter your **billing country**, **credit or debit card details** and **billing address**.  AWS temporarily holds around US$1 (or the equivalent in your local currency) to confirm your card is valid.  Click **Verify and continue** to proceed.
 
-![Billing information](images/step3.png)
+![Step 2](images/step5.png)
 
 ### 5. Verify your identity by phone
 
 AWS asks you to verify your identity by sending a code to your phone.  Choose whether to receive the code via **SMS** or **voice call**, enter your country code and phone number, and click **Send SMS** or **Call me**.  Complete the CAPTCHA, enter the code you receive and click **Verify and continue**.
 
-![Phone verification](images/step4.png)
+![Step 2](images/step6.png)
 
 If AWS reports a problem with your payment information, double‑check that:
 
@@ -49,13 +50,13 @@ If AWS reports a problem with your payment information, double‑check that:
 
 AWS prompts you to select a support plan.  Select **Basic Support (Free)**, which is recommended for new users.  The free plan still grants you access to the Free Tier and its included services.
 
-![Support plan selection](images/step5.png)
+![Support plan selection](images/step7.png)
 
 ### 7. Sign in to the AWS Management Console
 
 After your account is set up and verified, sign in to the **AWS Management Console**.  It may take a few hours for your account to become fully active.  Once signed in, you can launch virtual servers (EC2), store data in S3 and explore the many services included in the Free Tier.
 
-![AWS Management Console](images/step6.png)
+
 
 ## Additional tips
 
