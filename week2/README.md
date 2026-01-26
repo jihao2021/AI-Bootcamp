@@ -1,5 +1,5 @@
-Introduction to Python Programming
-Using Amazon Sagemaker
+Introduction to Python Programming using Jupyter Notebook + Curosr + Anaconda
+
 
 Link for tutorial: 
 
